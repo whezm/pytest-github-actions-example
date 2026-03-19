@@ -21,4 +21,8 @@ pytest -v -s
 
 If you have any questions about the project please raise an Issue on GitHub. 
 
-[![Coverage Status](coverage.svg)](https://github.com/ericsalesdeandrade/pytest-github-actions-example)
+[![Coverage Status](coverage.svg)](https://github.com/ericsalesdeandrade/pytest-github-actions-example)3
+
+# pytest-github-actions-example
+
+DPR test by whezm
